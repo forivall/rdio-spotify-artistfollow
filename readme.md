@@ -1,7 +1,7 @@
 Rdio - Spotify Artist Follow
 ============================
 
-This script will match the artists you follow on Rdio to artists on Spotify. Unfortunately Spotify currently has no open API to directly follow artists, so the best we can do is display their "follow" widgets. Lots of them. All on the same page.
+This script will match the artists you follow on Rdio to artists on Spotify, and then uses the Spotify api to follow the artists. It also displays their "follow" widgets to help you confirm which ones you're following.
 
 ### Steps
 
